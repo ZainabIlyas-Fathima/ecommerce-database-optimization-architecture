@@ -1,0 +1,15 @@
+city_id,city_name,population,estimated_rent,city_rank
+1,Colombo,752000,29700,1
+2,Gampaha,100000,17100,6
+3,Kandy,125000,15300,9
+4,Galle,100000,10800,8
+5,Jaffna,90000,22500,3
+6,Negombo,140000,31500,2
+7,Kurunegala,30000,22500,4
+8,Matara,75000,14400,5
+9,Batticaloa,95000,16200,7
+10,Anuradhapura,65000,13500,10
+11,Trincomalee,100000,9000,11
+12,Ratnapura,55000,8100,12
+13,Kalutara,40000,7200,13
+14,Badulla,50000,6300,14
